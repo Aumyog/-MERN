@@ -1,1 +1,1 @@
-# -MERN
+Study Buddy
